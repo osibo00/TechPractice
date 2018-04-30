@@ -1,4 +1,4 @@
-package com.company.c4q;
+package com.company.c4q.unit08practice;
 
 public class SumDigits {
 
